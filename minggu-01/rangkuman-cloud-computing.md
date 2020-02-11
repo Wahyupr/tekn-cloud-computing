@@ -13,7 +13,7 @@ kita mengakses data disaat yang penting.
 - Kecemasan, ketika terjadi bencana alam data milik kita tersimpan aman di cloud meskipun hardisk atau gadget kita rusak
 
 
-#Layanan Komputasi Awan
+# Layanan Komputasi Awan
 - Infrastructure as a Service (IaaS)
 Infrastructure as a Service adalah layanan komputasi awan yang menyediakan infrastruktur IT berupa CPU, RAM, storage, bandwith dan konfigurasi lain. Semua komponen tersebut digunakan untuk membangun komputer virtual. Komputer virtual dapat diinstal sistem operasi dan aplikasi sesuai kebutuhan. Keuntungan layanan IaaS ini adalah tidak perlu membeli komputer fisik sehingga lebih menghemat biaya. Konfigurasi komputer virtual juga bisa diubah sesuai kebutuhan. Misalkan saat storage hampir penuh, storage bisa ditambah dengan segera. Perusahaan yang menyediakan IaaS adalah Amazon EC2, Telkom Cloud dan BizNetCloud.
 - Platform as a Service (PaaS)
