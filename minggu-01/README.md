@@ -6,4 +6,4 @@
 
  ini isi 2
 
- tetew
+ add content ini 
