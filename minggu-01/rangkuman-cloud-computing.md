@@ -9,7 +9,7 @@ Komputasi awan (bahasa Inggris: cloud computing) adalah gabungan pemanfaatan tek
 	- Kreasi, yaitu para user bisa melakukan/mengembangkan kreasi atau project mereka tanpa harus mengirimkan project mereka secara langsung ke perusahaan, tapi user bisa mengirimkan nya lewat penyedia layanan cloud computing.
 	- Kecemasan, ketika terjadi bencana alam data milik kita tersimpan aman di cloud meskipun hardisk atau gadget kita rusak
 
-#Layanan Komputasi Awan
+# Layanan Komputasi Awan
 	- Infrastructure as a Service (IaaS)
 		Infrastructure as a Service adalah layanan komputasi awan yang menyediakan infrastruktur IT berupa CPU, RAM, storage, bandwith dan konfigurasi lain. Semua komponen tersebut digunakan untuk membangun komputer virtual. Komputer virtual dapat diinstal sistem operasi dan aplikasi sesuai kebutuhan.
 	- Platform as a Service (PaaS)
