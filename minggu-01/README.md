@@ -6,4 +6,5 @@
 
  ini isi 2
 
- add content ini 
+ add content ini
+ add content -2
