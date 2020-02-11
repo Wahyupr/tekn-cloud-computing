@@ -1,1 +1,3 @@
-#ini Menambhkan README.md
+# ini Menambahkan README.md
+
+ isi Project
