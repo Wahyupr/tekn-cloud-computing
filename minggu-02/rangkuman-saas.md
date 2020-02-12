@@ -1,5 +1,5 @@
 # Apa perbedaan antara IaaS, SaaS, and Paas?
-<center><img src="https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-02/images/diference_iaas.png" height="42" width="42"></center>
+<center><img src="https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-02/images/diference_iaas.png" height="300" width="300"></center>
 
 - Dalam kasus dibuat di rumah, itu berarti lingkungan di tempat Anda mengelola segala sesuatu yaitu Anda membuat keju, topping, adonan pizza Anda sendiri, Anda memiliki oven sendiri, gas dll dan Anda membuat semuanya sendiri dan makan di rumah. Anda mengontrol seberapa baik (atau buruk) pizza Anda
 - Dalam kasus IaaS, Anda membeli bahan baku (yaitu lingkungan komputasi Anda, disk penyimpanan, OS Anda dll) dari Penyedia Layanan Cloud Anda. Infrastruktur akan diberikan kepada Anda oleh Penyedia Cloud dan Anda tidak akan memiliki kontrol penuh atasnya (Anda tidak akan tahu di mana tepatnya server Anda, di mana disk Anda dll). Tetapi Anda mengontrol bagaimana penambalan dilakukan pada OS Anda, beban kerja apa yang Anda miliki di lingkungan Anda, dll
