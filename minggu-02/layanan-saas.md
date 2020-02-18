@@ -1,6 +1,6 @@
 # 1. OVERVIEW LAYANAN SAAS
 
-**[a. Ceratly.com](https://www.ceratly.com/)**
+**[a. Ceratly.com](https://creately.com//)**
 
 Aplikasi reatly adalah aplikasi untuk menggambar diagram secara online. Apabila browser anda mendukung HTML 5, IE dari versi 6 sampai 8, iOS dan Android maka anda bisa menggunakan aplikasi ini. Yang dibutuhkan selain browser tentu saja adanya koneksi internet.
 Tidak ada batasan pengguna maupun batasan diagram yang dapat dibuat, terlebih lagi kalau diintegrasikan dengan google drive. Apabila creatly.com sudah terintegrasi dengan google drive maka setiap diagram akan disimpan dalam google drive, satu diagram satu file. Kalau tidak mau diintegrasikan dengan google drive, bisa juga dieksport ke file berupa PNG/JPG/SVG/XML. Apabila kedepan mau melakukan editing, maka sebaiknya disimpan dalam format XML untuk nantinya di load ketika dibutuhkan.
