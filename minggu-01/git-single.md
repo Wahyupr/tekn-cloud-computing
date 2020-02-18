@@ -18,7 +18,11 @@ Untuk melakukan instalasi git diperlukan instaler yang dapat di download [disini
         - git GUI here
     - dan lain lain
 
-        Kemudian klik **Next**
+        Kemudian klik **Next** hingga proses instalasi package
         
+
+4. Pada tahap ini adalah proses instalasi, yaitu extraksi file ke dalam direktori yang sudah di lakukan di tahap kedua.
+
+![3](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-01/images/2/11.png).
 
 
