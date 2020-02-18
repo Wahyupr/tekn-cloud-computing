@@ -29,7 +29,7 @@ Ini menawarkan peluang besar bagi organisasi dari semua ukuran untuk mengalihkan
 
 # Apa itu SAAS Platform?
 
-<img src="https://github.com/Wahyu/tekn-cloud-computing/blob/master/minggu-02/images/saas3.png">
+<img src="https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-02/images/saas3.png">
 
 Sebelum kita masuk ke beberapa poin yang lebih terlibat, ada baiknya menyebutkan apa itu platform SaaS. SaaS adalah cara untuk mengirimkan perangkat lunak, penyedia perangkat lunak ini secara sentral menampung satu atau lebih aplikasi dan membuatnya tersedia bagi pelanggan melalui internet.
 
