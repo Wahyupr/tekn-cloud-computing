@@ -49,4 +49,4 @@ dilihat beberapa hal yang dapat diatur adalah
 - apabila ingin menambahkan file "Readme" pada repository makan - centang Initialze this repository with a README
 
 Selanjutnya adalah melakukan clone
-yang berfungsi untuk mengclone atau mengopy direktori yang ada pada repository github untuk di letakkan ke dalam lokal/ komputer.
+yang berfungsi untuk mengclone atau mengopy direktori yang ada pada repository github untuk di letakkan ke dalam lokal/komputer.
