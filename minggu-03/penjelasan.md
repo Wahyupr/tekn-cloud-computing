@@ -1,4 +1,4 @@
-## Praktik 1 sign-up to account Heroku
+## Latihan 1 sign-up to account Heroku
  Pada tahap ini adalah Login akun heroku jika sudah punya [klik disini](https://id.heroku.com/login) namun jika belum maka silahkan registrasi [disini](https://signup.heroku.com/). Berikut Gambar regsitrasi dan login heroku :
 
 ![registrasi](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-03/images/1.png)
