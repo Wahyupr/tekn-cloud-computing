@@ -3,12 +3,12 @@
 
 ![registrasi](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-03/images/1.png)
 
-**Gambar registrasi akun Heroku**
+            Gambar registrasi akun Heroku
 
 
 ![login](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-03/images/2.png)
 
-**gambar login heroku**
+            Gambar login heroku
 
 
 ## Latihan 2 Buatlah aplikasi baru melalui Dashboard
