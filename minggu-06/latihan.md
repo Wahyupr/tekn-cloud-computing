@@ -1,6 +1,6 @@
 # Instalasi Go 
 
-###Download installer GO di link [Installer Go](https://golang.org/doc/install) atau bisa dilihat Proses Instalasi nya di bawah ini :
+### Download installer GO di link [Installer Go](https://golang.org/doc/install) atau bisa dilihat Proses Instalasi nya di bawah ini :
 
 Download sesuai link diatas maka seperti ini jika sudah di download.
 
