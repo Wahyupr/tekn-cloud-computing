@@ -2,7 +2,7 @@
 
 ## Arsitektur Docker
 
-![go Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-08/images/go/tugas.png)
+![Diagram Docker](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-08/images/tugas.png)
 Gambar diatas merupakan arsitektur docker, dimana docker terdiri dari beberapa element yaitu docker client, docker daemon, docker container, docker images dan docker registry. Docker menggunakan teknologi client server untuk menghubungkan antara docker client dan docker daemon. Penulis akan menjelaskan sedikit mengenai istilah - istilah penting pada docker.
 
 
