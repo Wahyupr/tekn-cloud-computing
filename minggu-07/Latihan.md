@@ -25,7 +25,7 @@ Pastikan memiliki kunci dengan sidik jari 9DC8 5822 9FC7 DD38 854A E2D8 8D81 803
 
 
 
-###INSTALL DOCKER ENGINE
+### INSTALL DOCKER ENGINE
 Perbarui indeks paket apt, dan instal versi terbaru dari Docker Engine dan containerd, atau lanjutkan ke langkah berikutnya untuk menginstal versi tertentu:
 
 ![Docker Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-07/images/install%20Docker/gambar-07.png)
