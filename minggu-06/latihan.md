@@ -42,7 +42,6 @@ Download instaler nya di website atau link diatas kemudian ikutin langkah langka
 
 ownload installer nya di website atau link diatas kemudian ikutin langkah langkah seperti dibawah ini :
 
-![Mysql Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-06/images/mysql/gambar-01.png)
 
 ![Mysql Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-06/images/mysql/gambar-01.png)
 
