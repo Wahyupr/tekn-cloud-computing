@@ -1,5 +1,5 @@
-# Latihan TCC Minggu-06
-###### A. Membuat program Go untuk koneksi dan membaca data dari MySQL
+# Latihan
+#### A. Membuat program Go untuk koneksi dan membaca data dari MySQL
 Sebelum melakukan pembuatan program kita diwajibkan untuk menginstall Mysql Community Edition, compiler Go, dan Mysql driver untuk Go.
 
 *  Setelah proses instalasi selesai kita langsung membuat sebuah database yang akan digunakan untuk melakukan koneksi, dan pembacaan data menggunakann Go.
@@ -8,7 +8,7 @@ Sebelum melakukan pembuatan program kita diwajibkan untuk menginstall Mysql Comm
 * Lalu membuat program menggunakan bahasa Go untuk melakukan koneksi, dan membaca data yang sudah dibuat sebelumnya di database mysql. Program Go Mysql
 
 
-###### B. Membuat program Go untuk koneksi dan membaca data dari MongoDB
+#### B. Membuat program Go untuk koneksi dan membaca data dari MongoDB
 Sebelum melakukan pembuatan program kita diwajibkan untuk menginstall MongoDB (atau gunakan versi cloudnya MongoDB atlas), compiler Go, dan Mongo driver untuk Go. cara instalasi nya terdapat dibawah :
 
 * Setelah proses instalasi selesai kita langsung membuat sebuah database yang akan digunakan untuk melakukan koneksi, dan pembacaan data menggunakann Go.Karena saya menggunakan MongoDB Atlas maka harus membuat akun untuk bisa membuat cluster sendiri.
