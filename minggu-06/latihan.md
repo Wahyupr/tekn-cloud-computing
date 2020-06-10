@@ -20,6 +20,6 @@ Kemuadian klik installer yang telah didownload, lalu ->Next ->pilih direktory go
 
 Download instaler nya di website atau link diatas kemudian ikutin langkah langkah seperti dibawah ini :
 
-![Mongodb Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-06/images/Mongodb/gambar-01.png)
+![Mongodb Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-06/images/Mongodb/gambar-01.png=500x500)
 
 
