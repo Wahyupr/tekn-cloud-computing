@@ -5,3 +5,11 @@
 Download sesuai link diatas maka seperti ini jika sudah di download.
 
 ![go Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-06/images/go/01.png)
+
+Kemuadian klik installer yang telah didownload, lalu ->Next ->pilih direktory go ->Next lalu install , seperti di bawah ini
+
+![go Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-06/images/go/0.png)
+
+![go Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-06/images/go/03.png)
+
+![go Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-06/images/go/04.png)
