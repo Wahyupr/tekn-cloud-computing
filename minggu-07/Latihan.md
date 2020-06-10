@@ -1,7 +1,7 @@
 # 1. Install Docker, Menggunakan OS Linux ubuntu 20 LTS
 ## Instalasi Docker
 
-###instal menggunakan repositori
+### instal menggunakan repositori
 Sebelum Anda menginstal Docker Engine untuk pertama kalinya pada mesin host baru, Anda perlu mengatur repositori Docker. Setelah itu, Anda dapat menginstal dan memperbarui Docker dari repositori.
 
 * Siapkan repositori
@@ -34,13 +34,13 @@ Perbarui indeks paket apt, dan instal versi terbaru dari Docker Engine dan conta
 
 # 2. Kerjakan no 4 pada Materi dan Penjelasan
 
-###Test Docker version
+### Test Docker version
 
 Setelah Anda berhasil menginstal Docker Desktop, buka terminal dan jalankan docker --version untuk memeriksa versi Docker yang terinstal di mesin Anda.
 
 ![Docker Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-07/images/install%20Docker/gambar-10.png)
 
-###Uji Instalasi Docker
+### Uji Instalasi Docker
 * Uji apakah instalasi Anda berfungsi dengan menjalankan gambar Docker hello-world:
 
 ![Docker Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-07/images/install%20Docker/gambar-11.png)
